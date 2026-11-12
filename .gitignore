@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node_modules/
+dist/
+build/
+target/
+__pycache__/
+*.pem
+*.key
+*.p12
+*.keystore
+*.log
